@@ -1,0 +1,8 @@
+alias c='xclip -selection clipboard'
+alias matlab='/usr/local/MATLAB/R2023a/bin/matlab -nosplash -nodesktop'
+alias code2pdf='. /home/fakebakon76/Documents/Sophomore_Year/ECE210_Matlab_Seminar/code2pdf.sh'
+
+alias polo='. ~/Documents/misc_repo/custom_functions/polo.sh'
+alias marco='. ~/Documents/misc_repo/custom_functions/marco.sh'
+alias run='. ~/Documents/misc_repo/custom_functions/run.sh'
+alias toPdf='soffice --headless --convert-to pdf'
