@@ -18,7 +18,7 @@ set autoindent
 syntax enable
 
 " Sets highlight color
-hi MatchParen cterm=none ctermbg=magenta ctermfg=blue
+hi MatchParen cterm=bold ctermbg=lightgray ctermfg=black
 
 
 
