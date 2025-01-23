@@ -1,6 +1,12 @@
 alias c='xclip -selection clipboard'
 alias matlab='/usr/local/MATLAB/R2023a/bin/matlab -nosplash -nodesktop'
+alias matlab_gui='/usr/local/MATLAB/R2023a/bin/matlab'
 alias code2pdf='. /home/fakebakon76/Documents/Sophomore_Year/ECE210_Matlab_Seminar/code2pdf.sh'
+alias log='git log --all --oneline --decorate --graph'
+alias soundon='systemctl --user start pulseaudio'
+alias configure='nvim ~/.config/aliases/aliases'
+alias combine='gs -q -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile=merged.pdf'
+alias ltspice='wine LTspice64.exe&'
 
 alias polo='. ~/Documents/misc_repo/custom_functions/polo.sh'
 alias marco='. ~/Documents/misc_repo/custom_functions/marco.sh'
