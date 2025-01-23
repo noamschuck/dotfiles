@@ -6,7 +6,7 @@ alias log='git log --all --oneline --decorate --graph'
 alias soundon='systemctl --user start pulseaudio'
 alias configure='nvim ~/.config/aliases/aliases'
 alias combine='gs -q -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile=merged.pdf'
-alias ltspice='wine LTspice64.exe&'
+alias ltspice='wine ~/.wine/drive_c/Program\ Files/LTC/LTspiceXVII/XVIIx64.exe'
 
 alias polo='. ~/Documents/misc_repo/custom_functions/polo.sh'
 alias marco='. ~/Documents/misc_repo/custom_functions/marco.sh'
